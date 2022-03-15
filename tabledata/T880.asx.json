@@ -1,0 +1,31 @@
+[
+ {
+  "table":"T880",
+  "data":
+  [
+   {
+    "MANDT":"100",
+    "RCOMP":"P9D",
+    "NAME1":"Company P9D",
+    "CNTRY":"ES",
+    "NAME2":"",
+    "LANGU":"E",
+    "STRET":"Somewhere",
+    "POBOX":"",
+    "PSTLC":"",
+    "CITY":"Elise",
+    "CURR":"",
+    "MODCP":"",
+    "GLSIP":"",
+    "RESTA":"",
+    "RFORM":"",
+    "ZWEIG":"",
+    "MCOMP":"",
+    "MCLNT":0,
+    "LCCOMP":"",
+    "STRT2":"",
+    "INDPO":""
+   }
+  ]
+ }
+]
